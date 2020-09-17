@@ -58,6 +58,7 @@ class Game extends Component {
 			stepNumber: 0,
 			xIsNext: true
 		};
+		console.log(this)
 	}
 
 	handleClick(i) {
@@ -149,4 +150,5 @@ function calculateWinner(squares) {
 }
 
 render(<Game />, document.getElementById("root"));
-
+// const game = <Game/>;
+// console.log(game.vdom);
