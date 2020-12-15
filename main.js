@@ -1,4 +1,5 @@
 import { createElement, Component, render } from './toy-react';
+// import './myPromise'
 
 class Square extends Component {
 	constructor(props) {
