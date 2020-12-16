@@ -1,6 +1,7 @@
 import { createElement, Component, render } from './toy-react';
 // import './myPromise'
 
+// 测试CI/CD
 class Square extends Component {
 	constructor(props) {
 		super(props);
