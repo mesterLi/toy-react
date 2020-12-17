@@ -155,4 +155,4 @@
 // const game = <Game/>;
 // console.log(game.vdom);
 
-alert(123);
+console.log('测试 CI/CD')；
