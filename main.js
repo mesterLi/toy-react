@@ -155,4 +155,5 @@
 // const game = <Game/>;
 // console.log(game.vdom);
 
-console.log('测试 CI/CD')；
+console.log('测试 CI/CD');
+console.log('测试 CI/CD round 2');
